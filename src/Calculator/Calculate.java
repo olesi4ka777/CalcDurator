@@ -20,12 +20,16 @@ public abstract String minus;
     //умеет вычитать
     @Override
     public abstract void plus() {
+   \\считает сумму
 }
     @Override
     public abstract String ply () {
-    };
+    \\ умножает
+    }
     @Override
     public abstract void divid () {
+   \\ деление
+}
 }
 
 
